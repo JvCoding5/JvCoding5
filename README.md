@@ -23,7 +23,7 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 <br>
 ## Skills & Ferramentas
 <p align="left">
-  <img height="40" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=0vplMYeajmDb&format=png&color=000000" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
