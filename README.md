@@ -3,11 +3,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=Systems+Analysis+and+Development;Backend+%7C+Automation+%7C+Data+Science" alt="Typing SVG" />
 </div>
-<br>
 
 <br>
 
-## About Me
+### About Me
 
 🎓 **Systems Analysis and Development** student at Newton Paiva  
 💡 Focused on backend development, automation, and data analysis  
@@ -16,7 +15,7 @@
 
 <br>
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -28,7 +27,7 @@
 
 <br>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
@@ -37,7 +36,7 @@
 
 <br>
 
-## Connect with Me
+### Connect with Me
 
 <div align="center">
 
