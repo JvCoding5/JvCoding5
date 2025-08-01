@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor 👋
+## Olá, eu sou o João Victor 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva  
 💡 Focado em backend, automação e análise de dados  
