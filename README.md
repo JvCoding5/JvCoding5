@@ -6,12 +6,10 @@
 <br>
 <br>
 <br>
-<br>
 ## Sobre mim
 
 Sou um entusiasta de tecnologia e desenvolvimento, sempre buscando aprender novas linguagens e ferramentas para criar soluções eficientes e impactantes. Tenho interesse em automação de processos, análise de dados e desenvolvimento backend.  
 Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conhecimento e contribuir para projetos relevantes.
-<br>
 <br>
 <br>
 <br>
@@ -20,8 +18,9 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&layout=compact&theme=radical)
-
-
+<br>
+<br>
+<br>
 ## Skills & Ferramentas
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,7 +30,8 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
-
+<br>
+<br>
 ---
 
 ## Contato
