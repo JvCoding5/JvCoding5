@@ -15,9 +15,9 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 <br>
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JvCoding5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <br>
 <br>
