@@ -23,7 +23,7 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 
 ## Skills & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.icons8.com/color/512/python--v2.png))
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
