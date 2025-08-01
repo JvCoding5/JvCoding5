@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h3>
+<h5 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h5>
 
 ###
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
