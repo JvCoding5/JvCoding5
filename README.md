@@ -6,11 +6,13 @@
 
 ###
 
-<h3 align="center">About me</h3>
+<div align="center">
 
-###
+| About Me |
+|----------|
+| I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.<br><br>I’m interested in process automation, data analysis, and backend development.<br><br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects. |
 
-<p align="center">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
+</div>
 
 ###
 
