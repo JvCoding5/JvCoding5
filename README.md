@@ -7,7 +7,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
 
 I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  
 <br><br>
