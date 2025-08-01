@@ -1,8 +1,9 @@
 # Hello, I'm João Victor! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Systems+Analysis+and+Development;Backend+%7C+Automation+%7C+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=Systems+Analysis+and+Development;Backend+%7C+Automation+%7C+Data+Science" alt="Typing SVG" />
 </div>
+<br>
 
 <br>
 
