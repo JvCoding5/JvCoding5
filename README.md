@@ -1,6 +1,5 @@
 # Olá, eu sou o João Victor 👋
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva  
 💡 Focado em backend, automação e análise de dados  
 🚀 Atualmente aprimorando habilidades em Python, SQL, APIs REST e ferramentas de Data Science  
