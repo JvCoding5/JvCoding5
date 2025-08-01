@@ -1,18 +1,30 @@
-<h1 align="left">Hello, I’m João Victor!</h1>
+<h1 align="center">Hello, I’m João Victor!</h1>
 
 ###
 
-<h5 align="left">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h5>
-
-###
-<br>
-<h3 align="left">About me</h3>
+<h4 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h4>
 
 ###
 
-<p align="left">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
+<h3 align="center">About me</h3>
 
 ###
+
+<p align="center">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="62" alt="python logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="62" alt="git logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="62" alt="github logo"  />
+</div>
+
+###
+
+<h6 align="center">ESTATISTICAS</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
