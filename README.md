@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">🎓 Systems Analysis and Development student at Newton Paiva<br>💡 Focused on backend, automation, and data analysis<br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</p>
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; width: fit-content;">
+  <p align="left">
+    🎓 Systems Analysis and Development student at Newton Paiva<br>
+    💡 Focused on backend, automation, and data analysis<br>
+    🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools
+  </p>
+</div>
 
 ###
 
