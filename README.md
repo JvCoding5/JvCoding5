@@ -1,17 +1,26 @@
-<h3 align="left">Olá, eu sou o João Victor !</h3>
+<h1 align="center">Hello, I’m João Victor!</h1>
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva<br>💡 Focado em backend, automação e análise de dados<br>🚀 Atualmente aprimorando habilidades em Python, SQL, APIs REST e ferramentas de Data Science</p>
+<p align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</p>
 
 ###
-<br>
-<br>
-## Sobre mim
 
-Sou um entusiasta de tecnologia e desenvolvimento, sempre buscando aprender novas linguagens e ferramentas para criar soluções 
-eficientes e impactantes. Tenho interesse em automação de processos, análise de dados e desenvolvimento backend.  
-Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conhecimento e contribuir para projetos relevantes.
+<h3 align="center">About me</h3>
+
+###
+
+<p align="center">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 <br>
 <br>
 <br>
