@@ -6,7 +6,7 @@
 <br>
 <div align="center" style="border: 2px solid #555; border-radius: 10px; padding: 10px; max-width: 600px; margin: auto;">
 
-<p style="text-align: center; line-height: 1.4; margin: 0;">
+<p style="text-align: justify; line-height: 1.4; margin: 0;">
   I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.<br>
   I’m interested in process automation, data analysis, and backend development.<br>
   I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.
