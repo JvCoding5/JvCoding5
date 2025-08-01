@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 Systems Analysis and Development student at Newton Paiva<br>💡 Focused on backend, automation, and data analysis<br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h4>
+<h3 align="left">🎓 Systems Analysis and Development student at Newton Paiva<br>💡 Focused on backend, automation, and data analysis<br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi! I'm João Victor, a 20-year-old Computer Science student currently pursuing<br> an Associate Degree in Systems Analysis and Development at Newton Paiva. <br>I'm passionate about technology and constantly looking to improve my skills <br>through hands-on projects and real-world experience.</p>
+<h4 align="left">Hi! I'm João Victor, a 20-year-old Computer Science student currently pursuing<br> an Associate Degree in Systems Analysis and Development at Newton Paiva. <br>I'm passionate about technology and constantly looking to improve my skills <br>through hands-on projects and real-world experience.</h4>
 
 ###
 
