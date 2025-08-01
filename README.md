@@ -3,23 +3,18 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva  
 💡 Focado em backend, automação e análise de dados  
 🚀 Atualmente aprimorando habilidades em Python, SQL, APIs REST e ferramentas de Data Science  
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## Sobre mim
 
 Sou um entusiasta de tecnologia e desenvolvimento, sempre buscando aprender novas linguagens e ferramentas para criar soluções eficientes e impactantes. Tenho interesse em automação de processos, análise de dados e desenvolvimento backend.  
 Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conhecimento e contribuir para projetos relevantes.
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical)
