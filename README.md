@@ -32,7 +32,6 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 </p>
 <br>
 <br>
----
 
 ## Contato
 
