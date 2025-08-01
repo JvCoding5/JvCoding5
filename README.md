@@ -29,7 +29,6 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
-<h2 align="left">🛠️ Skills & Ferramentas</h2>
 
 ---
 
