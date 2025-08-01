@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" height="50" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
 
-**Currently Learning:** Django, FastAPI, Data Analysis
+**Currently Learning:** Excel, SQL, MySQL
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/joaovictor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaovictor@email.com)
 
