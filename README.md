@@ -3,7 +3,7 @@
 ###
 
 <h4 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h4>
-
+<br>
 ###
 
 <div align="center">
