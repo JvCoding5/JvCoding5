@@ -1,5 +1,7 @@
 # Olá, eu sou o João Victor 👋
-
+<p align="left">
+  <strong>🛠️ Skills & Ferramentas</strong>
+</p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva  
 💡 Focado em backend, automação e análise de dados  
 🚀 Atualmente aprimorando habilidades em Python, SQL, APIs REST e ferramentas de Data Science  
