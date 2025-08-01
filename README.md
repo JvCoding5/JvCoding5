@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</p>
+<h3 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
+<p align="left">I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.  <br>I’m interested in process automation, data analysis, and backend development.  <br>I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.</p>
 
 ###
 
