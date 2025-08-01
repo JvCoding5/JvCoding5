@@ -33,23 +33,6 @@
 <br>
 <br>
 <br>
-## Estatísticas do GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JvCoding5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-<br>
-<br>
-## Skills & Ferramentas
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-</p>
-<br>
-<br>
 
 <h2>📬 Contato</h2>
 
