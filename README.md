@@ -14,9 +14,9 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&layout=compact&theme=radical)
 
 ---
 
