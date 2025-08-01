@@ -25,9 +25,9 @@
 </div>
 
 ###
-
+<br>
 <h6 align="center">ESTATISTICAS</h6>
-###
+
 
 <div align="center">
 
