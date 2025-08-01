@@ -4,18 +4,14 @@
 
 <h4 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h4>
 <br>
-<div align="center">
-  <table style="border: 2px solid #555; border-radius: 10px; padding: 10px;">
-    <tr>
-      <td align="center">
+<div align="center" style="border: 2px solid #555; border-radius: 10px; padding: 10px; max-width: 600px; margin: auto;">
 
-I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.<br>
-I’m interested in process automation, data analysis, and backend development.<br>
-I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.
+<p style="text-align: center; line-height: 1.4; margin: 0;">
+  I’m a technology and development enthusiast, always eager to learn new languages and tools to create efficient and impactful solutions.<br>
+  I’m interested in process automation, data analysis, and backend development.<br>
+  I’m dedicated, proactive, and open to challenges that expand my knowledge and contribute to meaningful projects.
+</p>
 
-      </td>
-    </tr>
-  </table>
 </div>
 
 ###
