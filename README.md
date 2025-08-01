@@ -34,7 +34,7 @@ Sou dedicado, pró-ativo e aberto a desafios que possam expandir meu conheciment
 
 ## Contato
 
-📫 [LinkedIn](https://linkedin.com/in/seu-perfil) | 📧 seu.email@exemplo.com
+📫 [LinkedIn](www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291) | 📧 joao.victormg789@gmail.com
 
 
 <!--
