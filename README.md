@@ -1,69 +1,45 @@
-<h1 align="center">Hello, I’m João Victor!</h1>
+<h3 align="left">Hello, I’m João Victor!</h3>
 
 ###
 
-<h4 align="center">🎓 Systems Analysis and Development student at Newton Paiva  <br>💡 Focused on backend, automation, and data analysis  <br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</h4>
-<br>
-<div align="center" style="border: 2px solid #555; border-radius: 10px; padding: 15px; width: 400px; margin: auto;">
-
-<p style="text-align: center; line-height: 1.4; margin: 0;">
-I’m a technology and<br>
-development enthusiast,<br>
-always eager to learn new<br>
-languages and tools to<br>
-create efficient and impactful<br>
-solutions.
-</p>
-
-</div>
-
+<p align="left">🎓 Systems Analysis and Development student at Newton Paiva<br>💡 Focused on backend, automation, and data analysis<br>🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools</p>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="62" alt="python logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="62" alt="git logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="62" alt="github logo"  />
-</div>
+<h4 align="left">About me</h4>
 
 ###
-<br>
-<h6 align="center">ESTATISTICAS</h6>
 
+<p align="left">Hi! I'm João Victor, a 20-year-old Computer Science student currently pursuing<br> an Associate Degree in Systems Analysis and Development at Newton Paiva. <br>I'm passionate about technology and constantly looking to improve my skills <br>through hands-on projects and real-world experience.</p>
 
-<div align="center">
+###
 
-![](https://github-readme-stats.vercel.app/api?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h4 align="left">Techs</h4>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
-<br>
-<br>
-<br>
 
-<h2>📬 Contato</h2>
+<h5 align="left">Social Media</h5>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.victormg789@gmail.com)
+###
 
-[![](https://visitcount.itsvg.in/api?id=JvCoding5&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-
-<!--
-**JvCoding5/JvCoding5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
