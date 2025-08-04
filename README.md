@@ -64,7 +64,7 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <!-- ✨ Mini retro card with GIF -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzg2ZHB6NWVnYWd3NnN6a2lyOXg2MHYycmZsZW94ODlpbG5obWh4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/source.gif" 
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" 
        alt="Retro Neon GIF" 
        width="250px" 
        style="border-radius: 16px; box-shadow: 0 0 20px #FF69B4;" />
