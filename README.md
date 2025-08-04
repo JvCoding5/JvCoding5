@@ -32,7 +32,14 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 </table>
 
 <br>
-
+<!-- ✨ Mini retro card with GIF -->
+<div align="center">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" 
+       alt="Retro Neon GIF" 
+       width="250px" 
+       style="border-radius: 16px; box-shadow: 0 0 20px #FF69B4;" />
+</div>
+<br>
 <h3 align="center">Tech Stack</h3>
 
 ###
@@ -58,11 +65,4 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 </div>
 
-<!-- ✨ Mini retro card with GIF -->
-<div align="center">
-  <img src="https://i.redd.it/bpxxqqvps4h91.gif" 
-       alt="Retro Neon GIF" 
-       width="250px" 
-       style="border-radius: 16px; box-shadow: 0 0 20px #FF69B4;" />
-</div>
 
