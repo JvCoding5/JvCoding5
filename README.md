@@ -6,6 +6,10 @@
 
 <br>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### About Me
 
 🎓 **Systems Analysis and Development** student at Newton Paiva  
@@ -13,25 +17,27 @@
 🚀 Currently improving skills in Python, SQL, REST APIs, and Data Science tools  
 📍 Based in São Paulo, Brazil
 
+</td>
+<td valign="top" width="50%">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+
+</td>
+  </tr>
+</table>
+
 <br>
 
 ### Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
-
-**Currently Learning:** Excel, SQL, MySQL
-
-</div>
-
-<br>
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
+  
+  **Currently Learning:** Excel, SQL, MySQL
 </div>
 
 <br>
