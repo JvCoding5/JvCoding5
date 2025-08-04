@@ -39,8 +39,6 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
-  
-  <br><br>
   <span style="color:#39FF14;"><strong>Currently Learning:</strong></span> Excel, SQL, MySQL
 </div>
 
