@@ -3,7 +3,8 @@
 ###
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=0&pause=10000&color=00000000&center=true&vCenter=true&width=0&lines=" alt="Spacer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=10000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&lines=✨+Systems+Analysis+%26+Development+✨;🌈+Backend+%7C+Automation+%7C+Data+Science+🌈" alt="Title rainbow effect" />
+
   <svg width="100%" height="60">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" fill="url(#rainbow)">
       Systems Analysis & Development | Backend | Data Science
