@@ -16,7 +16,7 @@ Currently working at ZenCore, an omnichannel customer service platform, where I 
 Passionate about backend development, automation, and data analysis.
 Focused on improving my skills in Python, SQL, REST APIs, and data science tools.
 
-Based in Minas Gerais, Brazil, and committed to building efficient and impactful tech solutions.
+Based in Belo horizonte, Minas Gerais, Brazil, and committed to building efficient and impactful tech solutions.
 
 </td>
 <td valign="top" width="50%">
