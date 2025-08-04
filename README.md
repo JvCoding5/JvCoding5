@@ -1,118 +1,134 @@
-# 👋 Olá, eu sou [SEU NOME]!
+<h2 align="center">Hello, I'm [SEU NOME]! 👋</h2>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=[SUA+ÁREA]+Student;[ESPECIALIDADE+1]+%7C+[ESPECIALIDADE+2]+%7C+[ESPECIALIDADE+3]" alt="Typing SVG" />
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+### 🚀 About Me
+
+**[Idade] anos**, estudante de **[Seu Curso]** na **[Sua Universidade]**.
+
+Atualmente trabalhando na **[Nome da Empresa]**, onde atuo com **[suas principais atividades]**.
+
+🎯 **Apaixonado por:** [suas paixões na tecnologia]
+
+📚 **Focado em melhorar:** [tecnologias que está aprendendo]
+
+📍 **Localização:** [Sua cidade/estado], Brasil
+
+🌟 **Objetivo:** [seu objetivo profissional]
+
+### 🛠️ Current Focus
+- 🔥 **Desenvolvendo:** [projeto atual ou área de foco]
+- 📖 **Estudando:** [tecnologias que está aprendendo]
+- 🎯 **Meta 2025:** [sua meta para este ano]
+
+</td>
+    <td valign="top" width="50%">
+      
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most+Used+Languages" alt="Top Languages" height="165"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">🔧 Tech Stack</h3>
+
+###
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 Sobre Mim
-
-```javascript
-const desenvolvedor = {
-    nome: "Seu Nome",
-    localização: "Brasil 🇧🇷",
-    código: ["JavaScript", "Python", "TypeScript", "Java"],
-    ferramentas: ["React", "Node.js", "Docker", "AWS"],
-    arquitetura: ["Microserviços", "Event-Driven", "Design System"],
-    desafioAtual: "Explorando Inteligência Artificial e Machine Learning",
-    fato_curioso: "Adoro resolver problemas complexos com código elegante"
-};
-```
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
+**💻 Languages & Tools**
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,nodejs" height="40" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws" height="40" />
+
+**📚 Currently Learning:** [tecnologias que está aprendendo]
+
+**🎯 Next Goals:** [próximas tecnologias que quer aprender]
+
 </div>
+
+<br>
+
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[SEU_USERNAME]&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
-## 🏆 Troféus GitHub
+<br>
+
+<h3 align="center">📈 Activity Graph</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=discord&no-frame=true&row=1&column=7" alt="Troféus" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME]&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
-## 🎯 Projetos em Destaque
+<br>
+
+<h3 align="center">🌟 Featured Projects</h3>
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_PROJETO&theme=dark&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/SEU_USERNAME/NOME_DO_PROJETO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=OUTRO_PROJETO&theme=dark&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/SEU_USERNAME/OUTRO_PROJETO)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[NOME_REPO_1]&theme=tokyonight&hide_border=true)](https://github.com/[SEU_USERNAME]/[NOME_REPO_1])
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[NOME_REPO_2]&theme=tokyonight&hide_border=true)](https://github.com/[SEU_USERNAME]/[NOME_REPO_2])
 
 </div>
 
-## 📈 Gráfico de Atividade
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&area=true&color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🌐 Conecte-se Comigo
+<h3 align="center">📬 Connect with Me</h3>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seuportfolio.com)
-
+  <a href="https://www.linkedin.com/in/[SEU_PERFIL_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/[SEU_WHATSAPP]" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:[SEU_EMAIL]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://[SEU_PORTFOLIO]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9945FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
-## 💡 Citação Inspiradora
+<br>
 
 <div align="center">
   
-> *"O único modo de fazer um excelente trabalho é amar o que você faz."* - Steve Jobs
+### 💜 Thanks for visiting!
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&color=9945FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-## 🐍 Contribuições
+⭐ **Feel free to star any repositories you find interesting!**
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 <div align="center">
-  
-### 💜 Obrigado pela visita!
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&style=flat-square&color=6C63FF)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=100&section=footer" alt="Footer"/>
 </div>
-
----
-
-⭐️ **Se você gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!**
