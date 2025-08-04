@@ -59,15 +59,3 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <br><br>
 
-<!-- ✨ Retro wave mini card -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
-       alt="Retro Neon GIF"
-       width="250px"
-       style="border-radius: 16px; box-shadow: 0 0 12px #ff69b4; animation: pulse 2s infinite;" />
-</div>
-
-<!-- CSS animation via GitHub-compatible workaround -->
-<!-- The <style> tag doesn't work on GitHub README, but the animation will still render if the image has box-shadow and subtle width changes encoded in a GIF or external styled component. -->
-
-
