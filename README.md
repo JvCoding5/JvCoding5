@@ -29,13 +29,18 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvCoding5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
 
 </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">Tech Stack</h3>
+
 
 <br>
 
