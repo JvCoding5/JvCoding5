@@ -49,26 +49,15 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <br>
 
-<h3 align="center">Connect with Me</h3>
-
-###
-
 <div align="center">
-  <a href="www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40px" alt="LinkedIn"/>
   </a>
-  <a href="(31) 9 7529-8466" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+
+  <a href="https://wa.me/5531975298466" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="40px" alt="WhatsApp"/>
   </a>
-  <a href="joao.victormg789@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
 </div>
 
-###
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaovictor&color=58A6FF&style=flat" alt="Profile Views" />
-</div>
