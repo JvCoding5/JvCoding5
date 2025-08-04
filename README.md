@@ -2,26 +2,9 @@
 
 ###
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=10000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&lines=✨+Systems+Analysis+%26+Development+✨;🌈+Backend+%7C+Automation+%7C+Data+Science+🌈" alt="Title rainbow effect" />
-
-  <svg width="100%" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" fill="url(#rainbow)">
-      Systems Analysis & Development | Backend | Data Science
-    </text>
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000" />
-        <stop offset="16%" stop-color="#ffa500" />
-        <stop offset="33%" stop-color="#ffff00" />
-        <stop offset="50%" stop-color="#00ff00" />
-        <stop offset="66%" stop-color="#0000ff" />
-        <stop offset="83%" stop-color="#4b0082" />
-        <stop offset="100%" stop-color="#ee82ee" />
-      </linearGradient>
-    </defs>
-  </svg>
-</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=9945FF&height=120&section=header&text=Systems%20Analysis%20%26%20Development&fontSize=22&fontColor=ffffff&animation=twinkling&desc=Backend%20%7C%20Data%20Science&descSize=16&descAlignY=75" />
+</div>
 
 <br>
 
