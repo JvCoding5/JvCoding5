@@ -52,6 +52,13 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <div align="center">
 
+<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoAIDev/svg-assets/main/wave-pink-bottom.svg" alt="Wave Animation" width="100%" />
+</div>
+
+
   <a href="https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40px" alt="LinkedIn"/>
   </a>
