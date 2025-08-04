@@ -52,10 +52,7 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <div align="center">
 
-<br><br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoAIDev/svg-assets/main/wave-pink-bottom.svg" alt="Wave Animation" width="100%" />
 </div>
 
 
