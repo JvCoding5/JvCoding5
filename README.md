@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Systems%20Analysis%20%26%20Development&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Backend%20|%20Data%20Science&descSize=20&descAlignY=75" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Systems+Analysis+%26+Development;Backend+Developer+%E2%9A%A1;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Efficient+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
 <br>
 
 <table>
