@@ -33,15 +33,13 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <br>
 
-c
-
-<br>
 <h3 align="center">Tech Stack</h3>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
+  
   <br><br>
   <span style="color:#39FF14;"><strong>Currently Learning:</strong></span> Excel, SQL, MySQL
 </div>
@@ -60,4 +58,10 @@ c
 
 </div>
 
+<br><br>
+
+<!-- ✨ Retro wave GIF for final touch -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Retro Neon GIF" width="100%" />
+</div>
 
