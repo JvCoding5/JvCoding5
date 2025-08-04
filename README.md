@@ -1,10 +1,6 @@
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Systems+Analysis+%26+Development;Backend+Developer;Data+Science+Enthusiast;Building+Efficient+Solutions" alt="Typing SVG" />
 </div>
-
-
 
 <br>
 
@@ -39,13 +35,13 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <h3 align="center">Tech Stack</h3>
 
-
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
   
-  **Currently Learning:** Excel, SQL, MySQL
+  <br><br>
+  <span style="color:#39FF14;"><strong>Currently Learning:</strong></span> Excel, SQL, MySQL
 </div>
 
 <br>
@@ -62,3 +58,9 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 </div>
 
+<br><br>
+
+<!-- ✨ Retro wave GIF for final touch -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzg2ZHB6NWVnYWd3NnN6a2lyOXg2MHYycmZsZW94ODlpbG5obWh4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/source.gif" alt="Retro Neon GIF" width="100%" />
+</div>
