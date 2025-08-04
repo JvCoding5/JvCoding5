@@ -32,13 +32,9 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 </table>
 
 <br>
-<!-- ✨ Mini retro card with GIF -->
-<div align="center">
-  <img src="https://i.redd.it/bpxxqqvps4h91.gif" 
-       alt="Retro Neon GIF" 
-       width="250px" 
-       style="border-radius: 16px; box-shadow: 0 0 20px #FF69B4;" />
-</div>
+
+c
+
 <br>
 <h3 align="center">Tech Stack</h3>
 
@@ -46,7 +42,6 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50" />
-  
   <br><br>
   <span style="color:#39FF14;"><strong>Currently Learning:</strong></span> Excel, SQL, MySQL
 </div>
