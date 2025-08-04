@@ -1,9 +1,9 @@
-<h2 align="center">Hello, I'm [SEU NOME]! 👋</h2>
+<h2 align="center">Hello, I'm João Victor! 👋</h2>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=[SUA+ÁREA]+Student;[ESPECIALIDADE+1]+%7C+[ESPECIALIDADE+2]+%7C+[ESPECIALIDADE+3]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=Systems+Analysis+and+Development+Student;Backend+%7C+Automation+%7C+Data+Science" alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,22 +14,22 @@
       
 ### 🚀 About Me
 
-**[Idade] anos**, estudante de **[Seu Curso]** na **[Sua Universidade]**.
+**20 anos**, estudante de **Análise e Desenvolvimento de Sistemas** na **Newton Paiva**.
 
-Atualmente trabalhando na **[Nome da Empresa]**, onde atuo com **[suas principais atividades]**.
+Atualmente trabalhando na **ZenCore**, uma plataforma omnichannel de atendimento ao cliente, onde auxilio clientes com onboarding, implemento e desenvolvo chatbots (de fluxos simples a complexos), e forneço suporte técnico e acompanhamento de tickets.
 
-🎯 **Apaixonado por:** [suas paixões na tecnologia]
+🎯 **Apaixonado por:** Desenvolvimento backend, automação e análise de dados
 
-📚 **Focado em melhorar:** [tecnologias que está aprendendo]
+📚 **Focado em melhorar:** Python, SQL, REST APIs e ferramentas de ciência de dados
 
-📍 **Localização:** [Sua cidade/estado], Brasil
+📍 **Localização:** Minas Gerais, Brasil
 
-🌟 **Objetivo:** [seu objetivo profissional]
+🌟 **Objetivo:** Construir soluções tecnológicas eficientes e impactantes
 
 ### 🛠️ Current Focus
-- 🔥 **Desenvolvendo:** [projeto atual ou área de foco]
-- 📖 **Estudando:** [tecnologias que está aprendendo]
-- 🎯 **Meta 2025:** [sua meta para este ano]
+- 🔥 **Desenvolvendo:** Chatbots e automações na ZenCore
+- 📖 **Estudando:** Python, SQL, MySQL e Data Science
+- 🎯 **Meta 2025:** Especializar-me em Backend e Data Analysis
 
 </td>
     <td valign="top" width="50%">
@@ -63,9 +63,9 @@ Atualmente trabalhando na **[Nome da Empresa]**, onde atuo com **[suas principai
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws" height="40" />
 
-**📚 Currently Learning:** [tecnologias que está aprendendo]
+**📚 Currently Learning:** Excel, SQL, MySQL, Python, REST APIs
 
-**🎯 Next Goals:** [próximas tecnologias que quer aprender]
+**🎯 Next Goals:** Data Science Tools, Advanced Python, Cloud Platforms
 
 </div>
 
@@ -101,17 +101,14 @@ Atualmente trabalhando na **[Nome da Empresa]**, onde atuo com **[suas principai
 <h3 align="center">📬 Connect with Me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[SEU_PERFIL_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/[SEU_WHATSAPP]" target="_blank">
+  <a href="https://wa.me/5531975298466" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:[SEU_EMAIL]" target="_blank">
+  <a href="mailto:joao.victormg789@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://[SEU_PORTFOLIO]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9945FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
