@@ -1,9 +1,7 @@
 
 
-###
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Systems+Analysis+%26+Development;Backend+Developer;Data+Science+Enthusiast;Building+Efficient+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Systems+Analysis+%26+Development;Backend+Developer;Data+Science+Enthusiast;Building+Efficient+Solutions" alt="Typing SVG" />
 </div>
 
 
