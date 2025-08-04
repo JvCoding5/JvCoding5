@@ -16,8 +16,10 @@
 
 20-year-old Systems Analysis and Development student at Newton Paiva.
 Currently working at ZenCore, an omnichannel customer service platform, where I assist clients with onboarding, implement and develop chatbots (from simple to complex flows), and provide technical support and ticket follow-up.
+
 Passionate about backend development, automation, and data analysis.
 Focused on improving my skills in Python, SQL, REST APIs, and data science tools.
+
 Based in Minas Gerais, Brazil, and committed to building efficient and impactful tech solutions.
 
 </td>
