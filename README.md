@@ -58,10 +58,6 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 
 </div>
 
-<br><br>
-
-<br><br>
-
 <!-- ✨ Mini retro card with GIF -->
 <div align="center">
   <img src="https://i.redd.it/bpxxqqvps4h91.gif" 
