@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=9945FF&height=120&section=header&text=Systems%20Analysis%20%26%20Development&fontSize=22&fontColor=ffffff&animation=twinkling&desc=Backend%20%7C%20Data%20Science&descSize=16&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Systems%20Analysis%20%26%20Development&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Backend%20|%20Data%20Science&descSize=20&descAlignY=75" />
 </div>
-
 <br>
 
 <table>
