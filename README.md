@@ -47,6 +47,11 @@ Based in Minas Gerais, Brazil, and committed to building efficient and impactful
 <h3 align="center">Tech Stack</h3>
 
 
+<br>
+
+<h3 align="center">Tech Stack</h3>
+
+
 ###
 
 <div align="center">
