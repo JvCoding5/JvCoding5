@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Victor!
+# Olá, eu sou João Victor!
 
 ### 🔎 ABOUT ME
 - **Formando em Análise e Desenvolvimento de Sistemas**  
@@ -21,6 +21,7 @@ tecnicamente e gerar valor por meio de dados.
 ### CONTACT
  💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
  📧 **E-mail:** joao.victormg789@gmail.com
+
 
 
 
