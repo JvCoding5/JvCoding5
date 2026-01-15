@@ -18,6 +18,15 @@ tecnicamente e gerar valor por meio de dados.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=4&size=100" />
   </a>
+    ### MEU CONTATO
+<p align="left">
+  <a href="https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joao.victormg789@gmail.com](https://mail.google.com/mail/?view=cm&to=joao.victormg789@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Gmail" />
+  </a>
+</p>
 </p>
 
 --------
@@ -32,6 +41,7 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 <br>
+
 
 
 
