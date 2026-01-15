@@ -22,7 +22,6 @@ tecnicamente e gerar valor por meio de dados.
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Gmail" />
   </a>
 </p>
-<br>
 
 ------------
 <h3 align="left">Tecnologias & Ferramentas</h3>
@@ -32,7 +31,6 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 
---------
 
 
 
