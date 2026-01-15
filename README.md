@@ -20,6 +20,11 @@ tecnicamente e gerar valor por meio de dados.
 </p>
 
 ### MEU CONTATO
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
  💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
  📧 **E-mail:** joao.victormg789@gmail.com
 
@@ -29,6 +34,7 @@ tecnicamente e gerar valor por meio de dados.
        width="400" alt="Barba Negra" style="vertical-align: middle;"/><br>
   <span style="font-size:18px; margin-left:10px;">Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo.</span>
 </p>
+
 
 
 
