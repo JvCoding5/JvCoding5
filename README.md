@@ -2,19 +2,16 @@
  💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
  📧 **E-mail:** joao.victormg789@gmail.com
 
-<div style="
-  border: 2px solid #4CAF50; 
-  border-radius: 12px; 
-  padding: 20px; 
-  max-width: 400px; 
-  background-color: #f9f9f9; 
-  box-shadow: 4px 4px 10px rgba(0,0,0,0.1);
-">
-  <h1 style="margin-bottom: 10px;">👋 Olá, eu sou João Victor!</h1>
-  <p>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291">joao-victor-da-silva-rodrigues</a></p>
-  <p>📧 <strong>E-mail:</strong> joao.victormg789@gmail.com</p>
-</div>
 
+### 🔎 ABOUT ME
+- **Formando em Análise e Desenvolvimento de Sistemas**  
+- **Em transição para a área de Dados**  
+- Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
+
+Sou um profissional com perfil analítico e proativo, com experiência em suporte a<br>
+sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou focado<br>
+em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir<br>
+tecnicamente e gerar valor por meio de dados.
 
 ---
 
@@ -26,6 +23,7 @@ apoiar<br> a tomada de decisão.
 
 ----
 <h3 align="left">Tecnologias & Ferramentas</h3> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=400px" /> </a> </p>
+
 
 
 
