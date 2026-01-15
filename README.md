@@ -1,20 +1,23 @@
 # 👋 Olá, eu sou João Victor!
+ 💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
+ 📧 **E-mail:** joao.victormg789@gmail.com
 
-
-- 💼 LinkedIn: *(adicione aqui)* - 📧 Email: *(adicione aqui)*
 
 🎓 **Formando em Análise e Desenvolvimento de Sistemas**  
 📊 **Em transição para a área de Dados**  
 💼 Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
 
-Sou um profissional com perfil analítico e proativo, com experiência em suporte a sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou focado em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir tecnicamente e gerar valor por meio de dados.
+Sou um profissional com perfil analítico e proativo, com experiência em suporte a<br>
+sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou focado<br>
+em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir<br>
+tecnicamente e gerar valor por meio de dados.
 
 
 ### 🚀 Objetivo Profissional
 Atuar na área de **Dados**, com foco em **Análise de Dados**,
-**Business Intelligence** ou **Data Analytics**, aplicando 
+**Business Intelligence** ou **Data<br> Analytics**, aplicando 
 conhecimentos em SQL, Python e ferramentas analíticas para 
-apoiar a tomada de decisão.
+apoiar<br> a tomada de decisão.
 
 
 ### 🧠 Principais Competências
