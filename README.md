@@ -7,6 +7,8 @@ sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou 
 em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir<br>
 tecnicamente e gerar valor por meio de dados.
 
+
+<br>
 <br>
 
 - **Formando em Análise e Desenvolvimento de Sistemas**  
@@ -34,6 +36,7 @@ tecnicamente e gerar valor por meio de dados.
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
