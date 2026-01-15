@@ -1,7 +1,7 @@
 <h1>
+    Olá, eu sou João Victor!
   <img src="https://images.icon-icons.com/1029/PNG/256/Buggy_icon-icons.com_76113.png" 
        alt="Ícone" width="50" height="50" style="vertical-align: middle;"/>
-  Olá, eu sou João Victor!
 </h1>
 
 - **Formando em Análise e Desenvolvimento de Sistemas**  
@@ -30,6 +30,7 @@ tecnicamente e gerar valor por meio de dados.
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width="200" alt="Barba Negra" /><br>
   Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo
 </p>
+
 
 
 
