@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou João Victor!
 
+
+- 💼 LinkedIn: *(adicione aqui)* - 📧 Email: *(adicione aqui)*
+
 🎓 **Formando em Análise e Desenvolvimento de Sistemas**  
 📊 **Em transição para a área de Dados**  
 💼 Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
@@ -8,7 +11,10 @@ Sou um profissional com perfil analítico e proativo, com experiência em suport
 
 
 ### 🚀 Objetivo Profissional
-Atuar na área de **Dados**, com foco em **Análise de Dados**, **Business Intelligence** ou **Data Analytics**, aplicando conhecimentos em SQL, Python e ferramentas analíticas para apoiar a tomada de decisão.
+Atuar na área de **Dados**, com foco em **Análise de Dados**,
+**Business Intelligence** ou **Data Analytics**, aplicando 
+conhecimentos em SQL, Python e ferramentas analíticas para 
+apoiar a tomada de decisão.
 
 
 ### 🧠 Principais Competências
@@ -32,9 +38,6 @@ Atuar na área de **Dados**, com foco em **Análise de Dados**, **Business Intel
   <img src="https://i.pinimg.com/originals/3b/e4/74/3be474027a5ede38facb42dcdda8a5d7.gif" alt="gif" />
 </p>
 
-### 📫 Contato
-- 💼 LinkedIn: *(adicione aqui)*
-- 📧 Email: *(adicione aqui)*
 
 
 
