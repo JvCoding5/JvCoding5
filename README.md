@@ -37,10 +37,10 @@ apoiar<br> a tomada de decisão.
 </p>
 
 
-### 📚 Em Aprendizado Contínuo
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3b/e4/74/3be474027a5ede38facb42dcdda8a5d7.gif" alt="gif" />
+  <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" />
 </p>
+
 
 
 
