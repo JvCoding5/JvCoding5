@@ -15,7 +15,13 @@ em desenvolver minhas habilidades na área de **Análise de Dados**, buscando ev
 tecnicamente e gerar valor por meio de dados.
 
 ------------
-<h3 align="left">Tecnologias & Ferramentas</h3> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=400px" /> </a> </p>
+<h3 align="left">Tecnologias & Ferramentas</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=50" />
+  </a>
+</p>
+
 
 
 
