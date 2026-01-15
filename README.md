@@ -28,10 +28,11 @@ apoiar<br> a tomada de decisão.
   </a>
 </p>
 
-<p align="left" style="color:#FF4500;">💥 Em aprendizado contínuo!</p>
+<p align="left" style="color:#FF4500;"><str>💥 Em aprendizado contínuo!</str></p>
 <p align="left">
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="300"/>
 </p>
+
 
 
 
