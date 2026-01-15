@@ -1,6 +1,3 @@
-<h1>
-    BEM VINDO AO MEU GITHUB!✨
-</h1>
 <p align="left">
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" 
        width="250" 
@@ -8,7 +5,10 @@
        style="vertical-align: middle; border: 3px solid red; border-radius: 10px;"/><br>
   <span style="font-size:18px; margin-left:10px;">
   </span>
-</p>
+</p
+<h1>
+    BEM VINDO AO MEU GITHUB!✨
+</h1>
 
 - **Formando em Análise e Desenvolvimento de Sistemas**  
 - **Em transição para a área de Dados**  
@@ -39,6 +39,7 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 <br>
+
 
 
 
