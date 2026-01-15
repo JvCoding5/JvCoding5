@@ -32,7 +32,7 @@ apoiar<br> a tomada de decisão.
 ### 🔧 Tecnologias & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows" />
+    <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=4" />
   </a>
 </p>
 
@@ -40,6 +40,7 @@ apoiar<br> a tomada de decisão.
 <p align="center">
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" />
 </p>
+
 
 
 
