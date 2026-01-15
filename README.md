@@ -6,9 +6,12 @@ Estou me formando em Análise e Desenvolvimento de Sistemas e já atuei com supo
 e como analista de implantação na Zencore Tecnologia. Atualmente, estou me dedicando à área <br>
 de Dados, e dando meu máximo para a minha transição de carreira.<br>
 <br>
-Me acompanhe nesse processo, e como disse Gol D. Roger: “Existem três coisas que não podem ser interrompidas: <br>
+Sinta-se avontade para me acompanhar nesse processo divertido. No mais, deixo uma mensagem do meu
+anime favorito.
+<br>
+ “Existem três coisas que não podem ser interrompidas: <br>
 o sonho dos homens, o fluxo do tempo e a vontade herdada; enquanto as pessoas continuarem <br>
-buscando o sentido da liberdade, tudo isso jamais deixará de existir.”
+buscando o sentido da liberdade, tudo isso jamais deixará de existir.” - Gold D. Roger
 
 
 <br>
@@ -29,6 +32,7 @@ buscando o sentido da liberdade, tudo isso jamais deixará de existir.”
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
