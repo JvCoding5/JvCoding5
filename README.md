@@ -2,10 +2,13 @@
 <h1>
     BEM VINDO AO MEU GITHUB!✨
 </h1>
-Sou um profissional com perfil analítico e proativo, com experiência em suporte a<br>
-sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou focado<br>
-em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir<br>
-tecnicamente e gerar valor por meio de dados.
+Estou me formando em Análise e Desenvolvimento de Sistemas e já atuei com suporte técnico N1 <br>
+e como analista de implantação na Zencore Tecnologia. Atualmente, estou me dedicando à área <br>
+de Dados, e dando meu máximo para a minha transição de carreira.<br>
+
+Me acompanhe nesse processo, e como disse Gol D. Roger: “Existem três coisas que não podem ser interrompidas: <br>
+o sonho dos homens, o fluxo do tempo e a vontade herdada; enquanto as pessoas continuarem <br>
+buscando o sentido da liberdade, tudo isso jamais deixará de existir.”
 
 
 <br>
@@ -26,6 +29,7 @@ tecnicamente e gerar valor por meio de dados.
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
