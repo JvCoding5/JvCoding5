@@ -23,7 +23,10 @@ tecnicamente e gerar valor por meio de dados.
  📧 **E-mail:** joao.victormg789@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="">
+  <img src="https://in.pinterest.com/pin/49398927140082028/" width=100 />
+</p>
+
 
 
 
