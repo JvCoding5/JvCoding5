@@ -21,11 +21,12 @@ apoiar<br> a tomada de decisão.
 
 
 ### 🧠 Principais Competências
-- Análise e interpretação de dados
-- Construção e monitoramento de KPIs
-- Suporte e operação de plataformas CRM
-- Lógica de programação
-- Resolução de problemas e melhoria contínua
+- **Banco de Dados:** MySQL, PostgreSQL (DML, DDL, JOINs, agregações, constraints)  
+- **Linguagens:** Python, C#, lógica de programação  
+- **Web:** HTML, CSS  
+- **Ferramentas:** Git/GitHub, Excel, Power BI, N8N  
+- **Plataformas:** CRM e Help Desk  
+- **SO:** Windows
 
 
 ### 🔧 Tecnologias & Ferramentas
@@ -40,6 +41,7 @@ apoiar<br> a tomada de decisão.
 <p align="center">
   <img src="https://i.pinimg.com/originals/3b/e4/74/3be474027a5ede38facb42dcdda8a5d7.gif" alt="gif" />
 </p>
+
 
 
 
