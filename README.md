@@ -23,6 +23,7 @@ tecnicamente e gerar valor por meio de dados.
  📧 **E-mail:** joao.victormg789@gmail.com
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvCoding5)](https://github.com/JvCoding5/github-readme-stats)
 
 
 
