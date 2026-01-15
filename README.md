@@ -24,8 +24,9 @@ tecnicamente e gerar valor por meio de dados.
 
 
 <p align="">
-  <img src="https://in.pinterest.com/pin/49398927140082028/" width=100 />
+  <img src="https://in.pinterest.com/pin/49398927140082028/](https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width=100 />
 </p>
+
 
 
 
