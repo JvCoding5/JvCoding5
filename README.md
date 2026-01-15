@@ -28,15 +28,10 @@ Atuar na área de **Dados**, com foco em **Análise de Dados**, **Business Intel
   </a>
 </p>
 
----
-
----
 
 ## 📚 Em Aprendizado Contínuo
-![gatinho]([https://link-do-gif.gif](https://i.pinimg.com/originals/a6/c7/94/a6c794dc8170f36a4127c908280ed8d7.gif])
+![](https://i.pinimg.com/originals/3b/e4/74/3be474027a5ede38facb42dcdda8a5d7.gif)
 
-
----
 
 ## 📫 Contato
 - 💼 LinkedIn: *(adicione aqui)*
@@ -45,4 +40,5 @@ Atuar na área de **Dados**, com foco em **Análise de Dados**, **Business Intel
 ---
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de dados!
+
 
