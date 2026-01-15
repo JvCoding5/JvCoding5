@@ -30,6 +30,9 @@ tecnicamente e gerar valor por meio de dados.
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Gmail" />
   </a>
 </p>
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:joao.victormg789@gmail.com)
+
 
 
 <br><br>
@@ -38,6 +41,7 @@ tecnicamente e gerar valor por meio de dados.
        width="400" alt="Barba Negra" style="vertical-align: middle;"/><br>
   <span style="font-size:18px; margin-left:10px;">Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo.</span>
 </p>
+
 
 
 
