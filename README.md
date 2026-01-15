@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou João Victor!
-### 📬 MY CONTACTS
+### MY CONTACTS
 
  💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
  📧 **E-mail:** joao.victormg789@gmail.com
@@ -17,6 +17,7 @@ tecnicamente e gerar valor por meio de dados.
 
 ------------
 <h3 align="left">Tecnologias & Ferramentas</h3> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=400px" /> </a> </p>
+
 
 
 
