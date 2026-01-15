@@ -25,12 +25,10 @@ tecnicamente e gerar valor por meio de dados.
 
 
 <p align="left">
-    ### MEU CONTATO
- 💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
- 📧 **E-mail:** joao.victormg789@gmail.com
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width="200" alt="Barba Negra" /><br>
   Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo
 </p>
+
 
 
 
