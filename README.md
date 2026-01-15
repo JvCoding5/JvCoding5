@@ -24,12 +24,13 @@ tecnicamente e gerar valor por meio de dados.
  📧 **E-mail:** joao.victormg789@gmail.com
 
 
-<p align="left" style="line-height: 1.5; font-size: 16px;">
+<p align="left">
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" 
-       width="200" alt="Barba Negra" 
-       style="display: block; margin-bottom: 10px; border-radius: 8px;"/>
-  <strong>Nunca subestime o poder de um sonho.</strong> Eles têm o poder de mudar o mundo.
+       width="200" alt="Barba Negra" style="vertical-align: middle;"/>
+  <span style="font-size:18px; margin-left:10px;">Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo.</span>
 </p>
+
+
 
 
 
