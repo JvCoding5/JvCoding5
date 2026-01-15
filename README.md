@@ -23,7 +23,9 @@ tecnicamente e gerar valor por meio de dados.
 
 <p align="left">
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width="200" alt="Barba Negra" />
+  Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo
 </p>
+
 
 
 
