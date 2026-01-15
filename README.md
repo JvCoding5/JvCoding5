@@ -21,17 +21,8 @@ conhecimentos em SQL, ferramentas de visualização de dados para
 apoiar<br> a tomada de decisão.
 
 ----
-<h3 align="left">Tecnologias & Ferramentas</h3>
+<h3 align="left">Tecnologias & Ferramentas</h3> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=3" /> </a> </p>
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <!-- Ícones -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=3" width="300"/>
-  </a>
-
-  <!-- GIF -->
-  <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="150"/>
-</div>>
 
 
 
