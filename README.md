@@ -3,9 +3,9 @@
  📧 **E-mail:** joao.victormg789@gmail.com
 
 
-🎓 **Formando em Análise e Desenvolvimento de Sistemas**  
-📊 **Em transição para a área de Dados**  
-💼 Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
+- **Formando em Análise e Desenvolvimento de Sistemas**  
+- **Em transição para a área de Dados**  
+- Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
 
 Sou um profissional com perfil analítico e proativo, com experiência em suporte a<br>
 sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou focado<br>
@@ -31,6 +31,7 @@ apoiar<br> a tomada de decisão.
 <p align="center">
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="200"/>
 </p>
+
 
 
 
