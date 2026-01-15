@@ -23,9 +23,10 @@ tecnicamente e gerar valor por meio de dados.
  📧 **E-mail:** joao.victormg789@gmail.com
 
 
-<p align="">
-  <img src="https://in.pinterest.com/pin/49398927140082028/](https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width=100 />
+<p align="center">
+  <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" width="200" alt="Barba Negra" />
 </p>
+
 
 
 
