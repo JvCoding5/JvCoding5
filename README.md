@@ -17,13 +17,16 @@ tecnicamente e gerar valor por meio de dados.
 
 
 <br>
-----
+
+-----
+
 <h3 align="left">Tecnologias & Ferramentas</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
