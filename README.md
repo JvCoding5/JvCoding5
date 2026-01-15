@@ -29,7 +29,8 @@ tecnicamente e gerar valor por meio de dados.
 
 ----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvCoding5&show_icons=true&theme=radical)
+
 
 
 
