@@ -19,16 +19,6 @@ Atuar na área de **Dados**, com foco em **Análise de Dados**,
 conhecimentos em SQL, ferramentas de visualização de dados para 
 apoiar<br> a tomada de decisão.
 
-
-### 🧠 Principais Competências
-- **Banco de Dados:** MySQL, PostgreSQL (DML, DDL, JOINs, agregações, constraints)  
-- **Linguagens:** Python, C#, lógica de programação  
-- **Web:** HTML, CSS  
-- **Ferramentas:** Git/GitHub, Excel, Power BI, N8N  
-- **Plataformas:** CRM e Help Desk  
-- **SO:** Windows
-
-
 ### 🔧 Tecnologias & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,9 +27,10 @@ apoiar<br> a tomada de decisão.
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="300"/>
 </p>
+
 
 
 
