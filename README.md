@@ -12,13 +12,15 @@ sistemas, implantação de soluções e monitoramento de KPIs. Atualmente estou 
 em desenvolver minhas habilidades na área de **Análise de Dados**, buscando evoluir<br>
 tecnicamente e gerar valor por meio de dados.
 
------
+----
+
 ### 🚀 Objetivo Profissional
 Atuar na área de **Dados**, com foco em **Análise de Dados**,
 **Business Intelligence** ou **Data<br> Analytics**, aplicando 
 conhecimentos em SQL, ferramentas de visualização de dados para 
 apoiar<br> a tomada de decisão.
------
+
+----
 <h3 align="left">Tecnologias & Ferramentas</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,6 +33,7 @@ apoiar<br> a tomada de decisão.
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="300"/>
 </p>
 <p align="center">Em aprendizado contínuo!</p>
+
 
 
 
