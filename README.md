@@ -5,7 +5,7 @@
        style="vertical-align: middle; border: 3px solid red; border-radius: 10px;"/><br>
   <span style="font-size:18px; margin-left:10px;">
   </span>
-</p
+</p>
 <h1>
     BEM VINDO AO MEU GITHUB!✨
 </h1>
@@ -39,6 +39,7 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 <br>
+
 
 
 
