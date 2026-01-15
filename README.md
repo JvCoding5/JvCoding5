@@ -30,10 +30,7 @@ tecnicamente e gerar valor por meio de dados.
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Gmail" />
   </a>
 </p>
-
-
-
-<br><br>
+<br>
 <p align="left">
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" 
        width="250" 
@@ -42,6 +39,7 @@ tecnicamente e gerar valor por meio de dados.
   <span style="font-size:18px; margin-left:10px;">
   </span>
 </p>
+
 
 
 
