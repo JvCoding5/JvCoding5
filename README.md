@@ -7,8 +7,6 @@
 - **Em transição para a área de Dados**  
 - Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
 
-----
-
 ### 🔎 Sobre Mim
 
 Sou um profissional com perfil analítico e proativo, com experiência em suporte a<br>
@@ -25,6 +23,7 @@ apoiar<br> a tomada de decisão.
 
 ----
 <h3 align="left">Tecnologias & Ferramentas</h3> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=3" /> </a> </p>
+
 
 
 
