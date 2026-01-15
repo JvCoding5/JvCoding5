@@ -34,15 +34,15 @@ tecnicamente e gerar valor por meio de dados.
 
 
 <br><br>
-<p align="center">
+<p align="left">
   <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" 
        width="300" 
        alt="Barba Negra" 
        style="vertical-align: middle; border: 3px solid red; border-radius: 10px;"/><br>
   <span style="font-size:18px; margin-left:10px;">
-    Nunca subestime o poder de um sonho. Eles têm o poder de mudar o mundo.
   </span>
 </p>
+
 
 
 
