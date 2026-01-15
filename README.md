@@ -19,18 +19,19 @@ Atuar na área de **Dados**, com foco em **Análise de Dados**,
 conhecimentos em SQL, ferramentas de visualização de dados para 
 apoiar<br> a tomada de decisão.
 
-<h3 align="center">Tecnologias & Ferramentas</h3>
-<p align="center">
+<h3 align="left">Tecnologias & Ferramentas</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9" />
   </a>
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/originals/13/19/11/131911f41df66abe8545f8a0670d1dd7.gif" alt="gif" width="300"/>
 </p>
 <p align="center">Em aprendizado contínuo!</p>
+
 
 
 
