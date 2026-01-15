@@ -7,6 +7,7 @@ e como analista de implantação na Zencore Tecnologia. Atualmente, estou me ded
 de Dados, e dando meu máximo para a minha transição de carreira. Sinta-se avontade para me acompanhar<br>
 nesse processo divertido. No mais, deixo uma mensagem do meu anime favorito.<br>
 <br>
+
 > - “Existem três coisas que não podem ser interrompidas: <br>
 > - o sonho dos homens, o fluxo do tempo e a vontade herdada; enquanto as pessoas continuarem <br>
 > - buscando o sentido da liberdade, tudo isso jamais deixará de existir.” - Gold D. Roger
@@ -30,6 +31,7 @@ nesse processo divertido. No mais, deixo uma mensagem do meu anime favorito.<br>
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
