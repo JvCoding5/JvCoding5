@@ -1,11 +1,4 @@
-<p align="left">
-  <img src="https://media2.giphy.com/media/36GwympC5Hfq0/giphy.gif" 
-       width="250" 
-       alt="Barba Negra" 
-       style="vertical-align: middle; border: 3px solid red; border-radius: 10px;"/><br>
-  <span style="font-size:18px; margin-left:10px;">
-  </span>
-</p>
+
 <h1>
     BEM VINDO AO MEU GITHUB!✨
 </h1>
@@ -39,6 +32,7 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 <br>
+
 
 
 
