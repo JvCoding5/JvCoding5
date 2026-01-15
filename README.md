@@ -1,6 +1,6 @@
 # Olá, eu sou João Victor!
 
-### 🔎 ABOUT ME
+### 🔎SOBRE MIM
 - **Formando em Análise e Desenvolvimento de Sistemas**  
 - **Em transição para a área de Dados**  
 - Experiência em **Suporte Técnico N1** e **Analista de Implantação** na **Zencore**
@@ -18,9 +18,10 @@ tecnicamente e gerar valor por meio de dados.
   </a>
 </p>
 
-### CONTACT
+### MEU CONTATO
  💼 **Linkedin:** [joao-victor-da-silva-rodrigues](https://www.linkedin.com/in/joao-victor-da-silva-rodrigues-53a9aa291)   
  📧 **E-mail:** joao.victormg789@gmail.com
+
 
 
 
