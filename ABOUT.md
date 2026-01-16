@@ -18,5 +18,5 @@ O arquivo `README.md` deste repositório é utilizado como **README de perfil do
 Este arquivo (`ABOUT.md`) foi criado para documentar o contexto do desafio, evitando a inclusão dessas informações no README do perfil.
 
 <p align="left">
-  <img src="[assets/animation.gif](https://i0.wp.com/media2.giphy.com/media/36GwympC5Hfq0/giphy.gif)" width="300">
+  <img src="(assets/animation.gif](https://i0.wp.com/media2.giphy.com/media/36GwympC5Hfq0/giphy.gif)" width="300">
 </p>
