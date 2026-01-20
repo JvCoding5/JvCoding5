@@ -9,8 +9,8 @@ nesse processo divertido. No mais, deixo uma mensagem de um dos meus ídolos fav
 <br>
 
 > “The once who are crazy enough to think that they<br>
-> can change the world, are the once who do it”<br>
->  - Steve Jobs. 1955 - 2011
+> can change the world, are the once who do it”<br> - Steve Jobs. 1955 - 2011
+
 
 <br>
 
@@ -29,6 +29,7 @@ nesse processo divertido. No mais, deixo uma mensagem de um dos meus ídolos fav
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,postgres,git,github,windows&perline=9&size=100" />
   </a>
 </p>
+
 
 
 
